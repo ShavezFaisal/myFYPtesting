@@ -2333,7 +2333,6 @@
     <Content Include="Template\plugins\input-mask\phone-codes\phone-codes.json" />
     <Content Include="Template\README.md" />
     <Content Include="Template\yarn.lock" />
-    <Content Include="Views\Dashboard\Index2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
